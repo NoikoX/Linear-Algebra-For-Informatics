@@ -26,5 +26,5 @@ Quizzes and assessment materials developed during my teaching assistantship for 
 Feel free to use these materials for learning, teaching, or reference in linear algebra courses.
 
 ### Example:
-![QuizExample](1.png)
+![QuizExample](2.png)
 
